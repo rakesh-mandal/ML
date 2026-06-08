@@ -1,4 +1,3 @@
-# ML
 # Machine Learning
 
 This repository contains my machine learning projects and practice notebooks.
